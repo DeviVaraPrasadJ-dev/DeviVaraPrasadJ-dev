@@ -52,29 +52,6 @@
 
 ---
 
-## 📊 My GitHub Stats
-
-<p align="left">
-  <a href="https://github.com/DeviVaraPrasadJ-dev">
-    <img alt="DeviVaraPrasasd's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DeviVaraPrasadJ-dev&theme=dark&show_icons=true&hide_border=false&count_private=false&layout=compact"/>
-  </a>
-</p>
-
----
-
-<p align="left">
-  <a href="https://github.com/DeviVaraPrasadJ-dev">
-    <img alt="DeviVaraPrasad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeviVaraPrasadJ-dev&theme=dark&show_icons=true&hide_border=false&layout=compact"/>
-  </a>
-</p>
-
----
-<p align="left">
-    <a href="https://github.com/DeviVaraPrasadJ-dev">
-    <img alt="DeviVaraPrasasd's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=DeviVaraPrasadJ-dev&theme=dark&hide_border=false"/>
-  </a>
-</p>
----
 
 ## 🌐 Connect with me:
 
